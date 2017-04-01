@@ -1,6 +1,8 @@
 Для работы с данным тестом нужно:
 - Установленный FireFox https://www.mozilla.org/ru/firefox/new/
 - Установленный плагин Selenium IDE https://addons.mozilla.org/ru/firefox/addon/selenium-ide/
+
+
 Предварительное условие: Страница с квестом имеется локально с именем index.html
 
 Для запуска теста: 
